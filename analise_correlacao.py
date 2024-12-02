@@ -3,8 +3,8 @@ import pandas as pd
 
 # Dados fictícios para análise
 # Substitua pelos valores reais
-desmatamento = [5000, 10000, 15000, 20000, 25000]  # Hectares por ano
-perda_biodiversidade = [20, 45, 70, 95, 120]       # Espécies ameaçadas por ano
+desmatamento = [628800, 817400, 627000]  # Hectares por ano
+perda_biodiversidade = [503, 1200, 74]   # Espécies ameaçadas por ano
 
 # Criar um DataFrame para melhor manipulação dos dados
 dados = pd.DataFrame({
